@@ -1,0 +1,16 @@
+{
+  "name": "dogapi_v1",
+  "version": "1.0.0",
+  "description": "Simplified Dog API data fetch. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Xinran Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
